@@ -1,10 +1,8 @@
 # Master Thesis Project
-==================================================================
 
 This repository is a Tensorflow / Keras implementation of Modeling Long- and Short-Term Temporal Patterns in Frequency Restoration Reserve with Deep Neural Networks
 
 # Dataset
-==================================================================
 
 As described in the paper the data is composed of 2 publicly available datasets "Actual Generation" and "Automatic Frequency Restoration Reserve" downloadable from https://www.smard.de/home/downloadcenter/download-marktdaten and https://www.regelleistung.net/apps/datacenter/tenders/:
 
@@ -17,9 +15,9 @@ As described in the paper the data is composed of 2 publicly available datasets 
 - Phase angle: Phasor data measured at various locations recorded every 15 minutes from 2020/01 to 2020/12.
 
 # Environment
-==================================================================
 
-Primary environment
+Primary environment: Google Colab
+
 The results were obtained on a system with the following versions:
 
 Python 3.7.10
