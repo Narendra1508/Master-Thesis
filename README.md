@@ -21,6 +21,8 @@ Primary environment: Google Colab
 The results were obtained on a system with the following versions:
 
 Python 3.7.10
+
 TensorFlow 2.4.1
+
 Kera 2.4.0
 
