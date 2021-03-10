@@ -8,6 +8,6 @@ As described in the paper the data is composed of 2 publicly available datasets 
 
 Actual Generatio: A collection of 12 months (2020/01-2020/12) quarter hourly data of actual electricty generation in Ggermany from all type of sources.
 
-Automatic Frequency Restoration Reserve: The negative and poitive afrr data rom 2020/01 to 2020/12, sampled every 15 minutes.
+Automatic Frequency Restoration Reserve: The negative and positive afrr data rom 2020/01 to 2020/12, sampled every 15 minutes.
 
 Phase angle: Phasor data measured at various locations recorded every 15 minutes from 2020/01 to 2020/12.
