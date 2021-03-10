@@ -1,9 +1,11 @@
 # Master Thesis Project
 ==================================================================
+
 This repository is a Tensorflow / Keras implementation of Modeling Long- and Short-Term Temporal Patterns in Frequency Restoration Reserve with Deep Neural Networks
 
 # Dataset
 ==================================================================
+
 As described in the paper the data is composed of 2 publicly available datasets "Actual Generation" and "Automatic Frequency Restoration Reserve" downloadable from https://www.smard.de/home/downloadcenter/download-marktdaten and https://www.regelleistung.net/apps/datacenter/tenders/:
 
 1 dataset provided by Prof.Tobia Vieth, which was obtained from the "Phasor Measurement Units" (PMUs) of the wide area monitoring system.[https://gridradar.net/de/wide-area-monitoring-system] 
@@ -16,6 +18,7 @@ As described in the paper the data is composed of 2 publicly available datasets 
 
 # Environment
 ==================================================================
+
 Primary environment
 The results were obtained on a system with the following versions:
 
